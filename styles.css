@@ -1,0 +1,15 @@
+header {
+  display: flex;
+}
+ol {
+  display: flex;
+}
+body {
+  background-image: ;
+}
+.body {
+  background-image: url("./img/background.image.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
